@@ -10,3 +10,6 @@ The next thing is to download all the needed jar file like selenium standalone, 
 then open IDE, set the system property for the webdriver path and import all external jar files
 Now one can start writing the test script for the functionality testing on the Url to be tested
 To do the above step, will open te url manually and inspect the web page to check for web element locator.
+
+assumptions made and issues found
+For each side bar like input form, alert and listbox. The location couldn't click on any them, I had to pass through each with the Url of each page on each browser which wss why I was able to continuing the testing.
