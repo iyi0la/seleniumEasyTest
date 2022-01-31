@@ -1,0 +1,3 @@
+# seleniumEasyTest
+
+test pre-requisites
